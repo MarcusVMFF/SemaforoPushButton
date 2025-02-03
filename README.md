@@ -29,4 +29,5 @@ Um projeto que consiste na administração e uso de temporizadores, LEDs e botõ
 
 - Manipulação de multiplos LEDs
 - Rotinas de temporizadores
+- Manipulação de botões e deboucing
 
